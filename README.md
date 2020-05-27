@@ -1,1 +1,1 @@
-# proyecto Final aplicaciones web - Legado Digital
+# Proyecto final aplicaciones web - Legado Digital
